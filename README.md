@@ -22,13 +22,13 @@ You can learn more about the Server/Emulator and how to install it [here](https:
 **Client-Application**
 Once you installed the emulator you connect to it via UDP. 
 A client application written in Julia is part of _PlatformCommander_ and a good starting point. 
-Most of the [test](https://gitlab.com/kwm1/moog_com/-/tree/master/test) functions should work in combination with the emulator.
+Most of the [test](https://gitlab.com/KWM-PSY/moog_com/-/tree/master/test) functions should work in combination with the emulator.
 In order to use the provided client you need to install [Julia](https://julialang.org/). 
 Furthermore, you need to download and install the following packages:
 
-- [MOOG](https://gitlab.com/kwm1/MOOG) (this package defines the messages ID that are implemented on the server and a call to a network socket implemented in C)
-- [MoogCom](https://gitlab.com/kwm1/Moog_Com) (this is the module that implements the communication with the server)
-- [Exp_helper](https://gitlab.com/kwm1/Exp_helper) (this module defines functions and structures that support an efficient implementation of experiments)
-- [Questionnaires](https://gitlab.com/kwm1/questionnaires) (this module is thought to implement Questionnaires frequently used)
+- [MOOG](https://gitlab.com/KWM-PSY/moog) (this package defines the messages ID that are implemented on the server and a call to a network socket implemented in C)
+- [MoogCom](https://gitlab.com/KWM-PSY/moog_com) (this is the module that implements the communication with the server)
+- [Exp_helper](https://gitlab.com/KWM-PSY/exp_helper) (this module defines functions and structures that support an efficient implementation of experiments)
+- [Questionnaires](https://gitlab.com/KWM-PSY/questionnaires) (this module is thought to implement Questionnaires frequently used)
 
 
