@@ -1,5 +1,5 @@
 _PlatformCommander_ is an open source package developed by 
-the section ["Cognitive Psychology, Perception, and Research Methods"](https://www.kog.psy.unibe.ch/ueber_uns/team/index_ger.html) 
+the section ["Cognitive Psychology, Perception, and Research Methods"](https://www.kog.psy.unibe.ch/index_ger.html) 
 of the department for psychology and the [Technology Platform for Research](https://www.tpf.philhum.unibe.ch/) 
 of the Human Sciences Faculty of the University of Bern.
 The software allows for controlling a [motion platform](https://www.kog.psy.unibe.ch/unibe/portal/fak_humanwis/philhum_institute/inst_psych/psy_kog/content/e48289/e65987/e965439/e965444/moog_ger.mp4) and to synchronize its motions with other in- and output devices.
