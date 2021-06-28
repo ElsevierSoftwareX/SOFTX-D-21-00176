@@ -27,7 +27,7 @@ In order to use the provided client you need to install [Julia](https://julialan
 Furthermore, you need to download and install the following packages:
 
 - [MOOG](https://gitlab.com/KWM-PSY/moog) (this package defines the messages ID that are implemented on the server and a call to a network socket implemented in C)
-- [MoogCom](https://gitlab.com/KWM-PSY/moog_com) (this is the module that implements the communication with the server)
+- [MoogCom](https://gitlab.com/KWM-PSY/moogcom) (this is the module that implements the communication with the server)
 - [Exp_helper](https://gitlab.com/KWM-PSY/exp_helper) (this module defines functions and structures that support an efficient implementation of experiments)
 - [Questionnaires](https://gitlab.com/KWM-PSY/questionnaires) (this module is thought to implement Questionnaires frequently used)
 
