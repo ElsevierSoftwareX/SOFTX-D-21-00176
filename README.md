@@ -10,15 +10,12 @@ communication with it.
 Client applications connect to the server and send requests on what the platform should do.
 -----------------------------------------------------------
 **Videos**
-https://tube.switch.ch/videos/wYJPDMbzPj
 
-https://tube.switch.ch/videos/WCoJg4spvl
-
-https://tube.switch.ch/videos/hGwHnu4acO
-
-https://tube.switch.ch/videos/rfkp777f0d
-
-https://tube.switch.ch/videos/UjSUUcfQ1N
+- reference experiments >> https://tube.switch.ch/videos/wYJPDMbzPj
+- gui >> https://tube.switch.ch/videos/WCoJg4spvl
+- joystick mode >> https://tube.switch.ch/videos/hGwHnu4acO
+- visual stimuli subsystem >> https://tube.switch.ch/videos/rfkp777f0d
+- GVS >>https://tube.switch.ch/videos/UjSUUcfQ1N
 
 -----------------------------------------------------------
 **Required Hardware:**
