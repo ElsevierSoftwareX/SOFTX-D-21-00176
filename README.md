@@ -8,7 +8,15 @@ A manuscript describing the current capabilities of _PlatformCommander_ can be f
 _PlatformCommander_ consists of multiple modules. The server connects to the Moog motion platform and manages the 
 communication with it. 
 Client applications connect to the server and send requests on what the platform should do.
+-----------------------------------------------------------
+**Videos**
+https://tube.switch.ch/videos/wYJPDMbzPj
+https://tube.switch.ch/videos/WCoJg4spvl
+https://tube.switch.ch/videos/hGwHnu4acO
+https://tube.switch.ch/videos/rfkp777f0d
+https://tube.switch.ch/videos/UjSUUcfQ1N
 
+-----------------------------------------------------------
 **Required Hardware:**
 
 At the moment _PlatformCommander_ has beed tested for a MOOG 6 DOF 2000E motion platform (Models 170E122, 170E131; Nov 12, 1999). Currently, we adapt the code for the support of the MB-E-6DOF/12/1800KG model (Dec 15, 2020).
