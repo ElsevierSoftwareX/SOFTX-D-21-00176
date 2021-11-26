@@ -16,6 +16,10 @@ Client applications connect to the server and send requests on what the platform
 - joystick mode >> https://tube.switch.ch/videos/hGwHnu4acO
 - visual stimuli subsystem >> https://tube.switch.ch/videos/rfkp777f0d
 - GVS >>https://tube.switch.ch/videos/UjSUUcfQ1N
+-----------------------------------------------------------
+**FAQ**
+
+https://gitlab.com/KWM-PSY/platform-commander/-/wikis/FAQ
 
 -----------------------------------------------------------
 **Required Hardware:**
