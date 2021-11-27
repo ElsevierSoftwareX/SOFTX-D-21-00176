@@ -10,7 +10,7 @@ communication with it.
 Client applications connect to the server and send requests on what the platform should do.
 -----------------------------------------------------------
 **Videos**
-
+- installation procedure >> https://tube.switch.ch/videos/szBEimBJzM
 - reference experiments >> https://tube.switch.ch/videos/wYJPDMbzPj
 - gui >> https://tube.switch.ch/videos/WCoJg4spvl
 - joystick mode >> https://tube.switch.ch/videos/hGwHnu4acO
