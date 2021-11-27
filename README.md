@@ -3,7 +3,7 @@ the section ["Cognitive Psychology, Perception, and Research Methods"](https://w
 of the department for psychology and the [Technology Platform for Research](https://www.tpf.philhum.unibe.ch/) 
 of the Human Sciences Faculty of the University of Bern.
 The software allows for controlling a [motion platform](https://www.kog.psy.unibe.ch/unibe/portal/fak_humanwis/philhum_institute/inst_psych/psy_kog/content/e48289/e65987/e965439/e965444/moog_ger.mp4) and to synchronize its motions with other in- and output devices.
-A manuscript describing the current capabilities of _PlatformCommander_ can be found [here](https://gitlab.com/KWM-PSY/emulator/-/blob/master/PlatformCommander_0.9/docs/protocol_manual.pdf).
+The manual describing the current capabilities of _PlatformCommander_ can be found [here](https://gitlab.com/KWM-PSY/emulator/-/blob/master/PlatformCommander_0.9/docs/protocol_manual.pdf).
 
 _PlatformCommander_ consists of multiple modules. The server connects to the Moog motion platform and manages the 
 communication with it. 
